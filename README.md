@@ -21,7 +21,7 @@ Data Reporting and Analytics:
   - Network Security Basics
   - Linux Security Fundamentals
  
- ##CV
- [Download my CV] 
+ ## CV:
+ [Download my CV] https://github.com/Khanyisile-Majola/CV
  
  
