@@ -21,6 +21,10 @@ Data Reporting and Analytics:
   - Network Security Basics
   - Linux Security Fundamentals
  
+  ## Projects:
+  [Destruction Virus in Kali Linux] https://github.com/Khanyisile-Majola/Virus-in-Kali-Linux-that-destroys-the-whole-OS
+  
+ 
  ## CV:
  [Download my CV] https://github.com/Khanyisile-Majola/CV
  
