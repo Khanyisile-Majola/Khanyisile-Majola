@@ -22,8 +22,8 @@ Data Reporting and Analytics:
   - Linux Security Fundamentals
  
   ## Projects:
-  [Destruction Virus in Kali Linux] https://github.com/Khanyisile-Majola/Virus-in-Kali-Linux-that-destroys-the-whole-OS
-  [Nmap Scans] https://github.com/Khanyisile-Majola/Nmap-Scans
+ - [Destruction Virus in Kali Linux] https://github.com/Khanyisile-Majola/Virus-in-Kali-Linux-that-destroys-the-whole-OS
+ - [Nmap Scans] https://github.com/Khanyisile-Majola/Nmap-Scans
   
  
  ## CV:
