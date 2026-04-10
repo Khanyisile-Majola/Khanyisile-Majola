@@ -23,6 +23,7 @@ Data Reporting and Analytics:
  
   ## Projects:
   [Destruction Virus in Kali Linux] https://github.com/Khanyisile-Majola/Virus-in-Kali-Linux-that-destroys-the-whole-OS
+  [Nmap Scans] https://github.com/Khanyisile-Majola/Nmap-Scans
   
  
  ## CV:
