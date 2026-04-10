@@ -25,6 +25,7 @@ Data Reporting and Analytics:
  - [Destruction Virus in Kali Linux] https://github.com/Khanyisile-Majola/Virus-in-Kali-Linux-that-destroys-the-whole-OS
  - [Nmap Scans] https://github.com/Khanyisile-Majola/Nmap-Scans
  - [DoS attack in Kali Linux] https://github.com/Khanyisile-Majola/DoS-Attack-in-Kali-Linux
+ - [Creation of SQL Injection and XSS] https://github.com/Khanyisile-Majola/SQL-Injection-and-XSS
   
  
  ## CV:
