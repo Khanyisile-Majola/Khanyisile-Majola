@@ -21,6 +21,7 @@ Data Reporting and Analytics:
   - Network Security Basics
   - Linux Security Fundamentals
  
- 
+ ##CV
+ [Download my CV] 
  
  
